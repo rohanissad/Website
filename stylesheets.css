@@ -1,19 +1,37 @@
-h3 {
-    color: indigo;
-    background-color: aquamarine;
-    margin: 10px;
-    padding: 0.5cm;
-    width: 0.5cm;
 
+body {
+    background: url('bettergb.jpeg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
 
-}
+li{
 
-h1 {
-    color: fuchsia;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: italic;
-    font-size: 35px;
+
+}
+
+p{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 30;
+
+}
+
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
 
 
 }
+
+.list-item{
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 
